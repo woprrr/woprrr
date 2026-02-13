@@ -84,22 +84,22 @@ const alexandre = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=woprrr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=woprrr&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=woprrr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=woprrr&theme=github-dark-blue&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=woprrr&theme=default&hide_border=true" />
-  <img width="390" src="https://streak-stats.demolab.com/?user=woprrr&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/woprrr/woprrr/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/woprrr/woprrr/main/profile-summary-card-output/default/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/woprrr/woprrr/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=woprrr&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=woprrr&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woprrr&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/woprrr/woprrr/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/woprrr/woprrr/main/profile-summary-card-output/default/3-stats.svg" />
+  <img width="390" src="https://raw.githubusercontent.com/woprrr/woprrr/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/woprrr/woprrr/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/woprrr/woprrr/main/profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img width="390" src="https://raw.githubusercontent.com/woprrr/woprrr/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" />
 </picture>
 
 </div>
