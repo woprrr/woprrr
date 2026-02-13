@@ -1,24 +1,29 @@
 <div align="center">
 
-# Hey, I'm Alexandre 👋
+<img src="https://profile-counter.glitch.me/woprrr/count.svg" alt="Visitor Count" />
 
-### Senior Software Craftsman & AI Automation Architect
+<br><br>
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=35&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Alexandre+%F0%9F%91%8B;Senior+Software+Craftsman;AI+Automation+Architect;Founder+%40BULDEE" alt="Typing SVG" />
+</h1>
 
 [![BULDEE](https://img.shields.io/badge/Founder-BULDEE-FF6B35?style=for-the-badge)](https://www.buldee.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandre-mallet-music/)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium)](https://medium.com/@woprrr.rocks)
 [![Website](https://img.shields.io/badge/Website-buldee.com-blue?style=for-the-badge)](https://www.buldee.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const alexandre = {
   role: "Senior Software Craftsman & AI Architect",
   company: "BULDEE",
-  location: "France 🇫🇷",
+  location: "France",
   experience: "15+ years",
   focus: ["AI Automation", "Workflow Orchestration", "Clean Architecture"],
   mission: "Transform business processes into autonomous machines"
@@ -29,41 +34,28 @@ const alexandre = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-**Daily Drivers**
+<img src="https://skillicons.dev/icons?i=symfony,php,typescript,react,tailwind,postgresql&theme=dark" alt="Main Stack" />
+<br>
+<img src="https://skillicons.dev/icons?i=python,docker,redis,linux,github,vscode&theme=dark" alt="Tools" />
+
+<br><br>
+
+**AI & Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-
-**AI & Data**
-
 ![Claude](https://img.shields.io/badge/Claude_AI-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 What I Build at BULDEE
+## What I Build at BULDEE
 
 | Solution | Impact |
 |----------|--------|
@@ -74,44 +66,65 @@ const alexandre = {
 
 ---
 
-## 🏆 Open Source Contributions
+## GitHub Stats
 
 <div align="center">
 
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [drupal8-composer-template](https://github.com/woprrr/drupal8-composer-template) | Drupal 8 project template with Composer | ⭐ 27 |
-| [symfony-4-skeleton-docker](https://github.com/woprrr/symfony-4-skeleton-docker) | Symfony 4 Docker development environment | ⭐ 9 |
-| [form_mode_manager](https://github.com/woprrr/form_mode_manager) | Drupal 8 form modes management | ⭐ 3 |
-| [image_widget_crop](https://github.com/woprrr/image_widget_crop) | Image cropping widget for Drupal 8 | 🔧 |
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=woprrr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=woprrr&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woprrr&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/woprrr/woprrr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/woprrr/woprrr/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/woprrr/woprrr/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Open Source Contributions
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woprrr&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woprrr&layout=compact&theme=default&hide_border=true)
+| Project | Description |
+|---------|-------------|
+| [drupal8-composer-template](https://github.com/woprrr/drupal8-composer-template) | Drupal 8 project template with Composer |
+| [symfony-4-skeleton-docker](https://github.com/woprrr/symfony-4-skeleton-docker) | Symfony 4 Docker development environment |
+| [form_mode_manager](https://github.com/woprrr/form_mode_manager) | Drupal 8 form modes management |
 
 </div>
 
 ---
 
-## 💬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
 **Building something that needs automation?**
 
-[![Book a Call](https://img.shields.io/badge/📅_Book_a_Free_AI_Audit-FF6B35?style=for-the-badge)](https://www.buldee.com)
-[![Email](https://img.shields.io/badge/📧_Email_Me-contact@buldee.io-blue?style=for-the-badge)](mailto:contact@buldee.io)
+[![Book a Call](https://img.shields.io/badge/Book_a_Free_AI_Audit-FF6B35?style=for-the-badge)](https://www.buldee.com)
+[![Email](https://img.shields.io/badge/Email_Me-contact@buldee.io-0A66C2?style=for-the-badge)](mailto:contact@buldee.io)
 
 ---
 
-*"Cultivez votre potentiel, révélez votre expertise"*
+*"Cultivez votre potentiel, revelez votre expertise"*
 
 </div>

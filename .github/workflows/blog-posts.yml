@@ -1,0 +1,27 @@
+# Workflow to automatically fetch latest blog posts from Medium
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@woprrr.rocks"
+          max_post_count: 5
+          template: "- [$title]($url) — $date"
+          date_format: "dd MMM yyyy"
