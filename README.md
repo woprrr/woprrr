@@ -30,7 +30,7 @@ const alexandre = {
 };
 ```
 
-**Currently building** intelligent automation systems that work 24/7 for businesses — from lead qualification engines to AI-powered workflows.
+**Currently building** intelligent automation systems that work 24/7 for businesses: from lead qualification engines to AI-powered workflows.
 
 ---
 
@@ -75,7 +75,7 @@ const alexandre = {
 | **AI Prospecting Engines** | Automated lead pipelines generating qualified conversations |
 | **Smart Scoring Systems** | Rule-based + AI qualification (HOT/WARM/COOL/COLD) |
 | **Multi-tenant Workflows** | Scalable automation for agencies & franchises |
-| **CRM Integrations** | Pipedrive, HubSpot, Notion — fully automated |
+| **CRM Integrations** | Pipedrive, HubSpot, Notion (fully automated) |
 
 ---
 
